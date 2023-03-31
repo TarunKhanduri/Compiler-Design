@@ -1,0 +1,1 @@
+design a lex code to count the number of total characters, words and white space from the input.txt file.
